@@ -43,6 +43,9 @@
 
 /* 1. base
 --------------------------------------------------------------------------------*/
+.section-contact h5 {
+    margin-bottom: 30px;
+  }
 
 a[disabled], input[disabled], button[disabled], textarea[disabled] {
     cursor: not-allowed !important;
